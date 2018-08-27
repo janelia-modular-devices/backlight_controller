@@ -1,0 +1,6 @@
+[submodule "generate_modular_device_documentation"]
+	path = generate_modular_device_documentation
+	url = https://github.com/janelia-modular-devices/generate_modular_device_documentation.git
+[submodule "hardware/smart_vision_controller_5x3"]
+	path = hardware/smart_vision_controller_5x3
+	url = https://github.com/janelia-kicad/smart_vision_controller_5x3.git
